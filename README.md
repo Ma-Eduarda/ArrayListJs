@@ -3,8 +3,6 @@ Tutorial de como manipular coleções com de Listas em Javascript utilizando: ma
 
 # `map()`
 
-## O que faz?
-
 Cria um novo array com os resultados da função aplicada a cada item do array original.
 
 ### Exemplo:
