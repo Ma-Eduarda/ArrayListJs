@@ -1,5 +1,6 @@
 # ArrayListJs  
-Como manipular coleções com de Listas em Javascript utilizando: map, filter e reducer.
+
+Como manipular listas em JavaScript com map, filter e reduce
 
 ## `map()`
 
